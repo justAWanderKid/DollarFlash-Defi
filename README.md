@@ -3,8 +3,6 @@
 
 > *just a simple flashloan protocol i made for fun.*
 
-<br>
-
 # DollarFlash Protocol
 
 `DollarFlash` is a decentralized finance (DeFi) protocol that offers `USDC` flash loans, allowing users to borrow `USDC` without collateral, provided the loan is repaid within the same transaction. This protocol is designed to cater to both liquidity providers and flash loan borrowers, ensuring a balanced and profitable ecosystem.
